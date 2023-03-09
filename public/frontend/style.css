@@ -1,0 +1,73 @@
+.header img {
+    margin-top: 50px;
+    width: 100%;
+}
+.search {
+    margin: auto 220px;
+}
+.col-md-2 .bg {
+    background-color: aliceblue;
+    max-width: 20%;
+}
+.bg {
+    width: 50%;
+    height: 60%;
+}
+.main {
+    width: 70%;
+    margin: auto 150px;
+}
+
+.icon {
+    background-color: rgb(238, 239, 240);
+    border-radius: 100px;
+    padding: 20px;
+}
+small {
+    margin-left: 12px;
+}
+.card .img {
+    box-shadow: 2px 2px 2px 1px rgba(202, 202, 211, 0.2);
+}
+.input-color .form-control {
+    background-color: #dfebff;
+}
+.link a,
+.link p,
+.link i {
+    background-color: #e8f0fd;
+    padding: 5px;
+}
+.search-cat {
+    box-shadow: 1px 1px 1px 2px #dfebff;
+    border-radius: 10px;
+}
+.item-bg {
+    background-color: #edf1f8;
+}
+/* .img-detail {
+    background-color: #eef4fe;
+} */
+.img-detail img {
+    margin: auto 400px;
+    max-width: 50%;
+}
+.owner {
+    background-color: #ebebeb;
+    box-shadow: 2px 2px 1px 1px #edeff3;
+    padding: 20px;
+    border-radius: 2px;
+    width: 40%;
+}
+.owner-info {
+    background-color: #e5f4ff;
+    box-shadow: 2px 1px 1px 1px #edeff3;
+    padding: 20px;
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 2px;
+}
+.cover .card {
+    width: 99%;
+    height: 99%;
+}

@@ -1,0 +1,11 @@
+.img {
+    margin: auto 230px;
+}
+h4 {
+    text-align: center;
+    font-weight: 600;
+    margin: 3px;
+}
+.container {
+    max-width: 40%;
+}
